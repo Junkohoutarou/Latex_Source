@@ -142,18 +142,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/sonnh-uit/HCMUIT_thesistemplate.svg?style=for-the-badge
-[contributors-url]: https://github.com/sonnh-uit/HCMUIT_thesistemplate/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sonnh-uit/HCMUIT_thesistemplate.svg?style=for-the-badge
-[forks-url]: https://github.com/sonnh-uit/HCMUIT_thesistemplate/network/members
-[stars-shield]: https://img.shields.io/github/stars/sonnh-uit/HCMUIT_thesistemplate.svg?style=for-the-badge
-[stars-url]: https://github.com/sonnh-uit/HCMUIT_thesistemplate/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sonnh-uit/HCMUIT_thesistemplate.svg?style=for-the-badge
-[issues-url]: https://github.com/sonnh-uit/HCMUIT_thesistemplate/issues
-[license-shield]: https://img.shields.io/github/license/sonnh-uit/HCMUIT_thesistemplate.svg?style=for-the-badge
-[license-url]: https://github.com/sonnh-uit/HCMUIT_thesistemplate/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/sonnh-uit/
 
 [download-shield]: https://img.shields.io/github/downloads/sonnh-uit/HCMUIT_thesistemplate/total.svg?style=for-the-badge
 [download-url]: https://github.com/sonnh-uit/HCMUIT_thesistemplate
