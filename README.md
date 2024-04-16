@@ -22,9 +22,9 @@
     <!-- <br /> -->
     A small project to writing UIT thesis correctly.
     <br />
-    <a href="https://github.com/Junkohoutarou/Latex_Source.git/tree/master/imgs/demo">View Demo</a>
+    <a href="https://github.com/Junkohoutarou/Latex_Source/tree/master/imgs/demo">View Demo</a>
     ·
-    <a href="https://github.com/Junkohoutarou/Latex_Source.git/issues">Report Bug</a>
+    <a href="https://github.com/Junkohoutarou/Latex_Source/issues">Report Bug</a>
     ·
   </p>
 </div>
@@ -60,7 +60,7 @@ This is guideline how you setting up your thesis. Follow the instruction bellow.
 ### Installation
 
 #### Overleaf
-1. Download lastest source code from [Project Releas](https://github.com/sonnh-uit/HCMUIT_thesistemplate/releases) 
+1. Download lastest source code from [Project Releas](https://github.com/Junkohoutarou/Latex_Source/releases) 
 2. Login to your project at https://www.overleaf.com/project
 3. On the left side, choose `New Project` button and select `Upload Project`.
 4. On the pop up, select a zip file you already download before.
@@ -90,7 +90,7 @@ or
 ##### Buid from docker
 1. Clone project from github
     ```
-    git clone https://github.com/sonnh-uit/HCMUIT_thesistemplate.git
+    git clone https://github.com/Junkohoutarou/Latex_Source.git
     ```
 2. Cd to project
     ```
