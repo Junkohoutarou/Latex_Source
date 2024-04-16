@@ -11,20 +11,20 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/sonnh-uit/HCMUIT_thesistemplate">
+  <a href="https://github.com/Junkohoutarou/Latex_Source.git">
     <img src="imgs/UIT-logo.png" alt="Logo" width="20%">
   </a>
 
 <h3 align="center">HCMUIT Thesis Template</h3>
   </p>
   <p align="center">
-    <!-- <a href="https://github.com/sonnh-uit/HCMUIT_thesistemplate"><strong>Explore the docs »</strong></a> -->
+    <!-- <a href="https://github.com/Junkohoutarou/Latex_Source.git"><strong>Explore the docs »</strong></a> -->
     <!-- <br /> -->
     A small project to writing UIT thesis correctly.
     <br />
-    <a href="https://github.com/sonnh-uit/HCMUIT_thesistemplate/tree/master/imgs/demo">View Demo</a>
+    <a href="https://github.com/Junkohoutarou/Latex_Source.git/tree/master/imgs/demo">View Demo</a>
     ·
-    <a href="https://github.com/sonnh-uit/HCMUIT_thesistemplate/issues">Report Bug</a>
+    <a href="https://github.com/Junkohoutarou/Latex_Source.git/issues">Report Bug</a>
     ·
   </p>
 </div>
