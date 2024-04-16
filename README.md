@@ -1,12 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Download][download-shield]][download-url]
-<!-- [![Github All Releases](https://img.shields.io/github/downloads/sonnh-uit/HCMUIT_thesistemplate/total.svg?style=for-the-badge)](https://github.com/sonnh-uit/HCMUIT_thesistemplate) -->
-
 
 <!-- PROJECT LOGO -->
 <br />
