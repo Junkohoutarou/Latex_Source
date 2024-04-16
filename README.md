@@ -94,7 +94,7 @@ or
     ```
 2. Cd to project
     ```
-    cd HCMUIT_thesis_template
+    cd Latex_Source
     ```
 3. Build with docker-compose
     ```
