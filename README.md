@@ -131,10 +131,6 @@ Don't forget to give the project a star! Thanks again!
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
-<!-- CONTACT -->
-## Contact
-
-Son Nguyen-Hong - [@facebook](https://www.facebook.com/sonnh.uit/) - 17520988@gm.uit.edu.vn
 
 <!-- ACKNOWLEDGMENTS -->
 <!-- ## Acknowledgments
