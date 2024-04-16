@@ -73,7 +73,7 @@ or
 ##### Buid from local machine Ubuntu
 1. Clone project from github
     ```
-    git clone https://github.com/sonnh-uit/HCMUIT_thesistemplate.git
+    git clone https://github.com/Junkohoutarou/Latex_Source.git
     ```
 2. Cd to project
     ```
